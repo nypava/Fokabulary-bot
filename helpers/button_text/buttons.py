@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-web_app_url = os.getenv("web_app_url")
+web_app_url = os.getenv("quiz_web_app_url")
 
 # start button
 start  = ReplyKeyboardMarkup(
