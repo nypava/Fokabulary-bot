@@ -11,7 +11,7 @@ Environmetal variable:
 
 - Fill bot_token with your bot token from @botfather
 - Fill mongo_key with mongo db key from mongodb.org
-- Replace web_app_url with your web app url. Or use https://fokabulary-quiz.vercel.app
+- Replace quiz_web_app_url with your web app url. Or use https://fokabulary-quiz.vercel.app
 - Replace start_image with your preference image. Or use https://telegra.ph/file/db7fe51f1f9e0433682b5.jpg 
 
 You can get web app setup on [webApp](/webApp/) dir.
