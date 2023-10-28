@@ -5,7 +5,7 @@
     import { questionStore, titleStore } from "./stores/question";
     import { onMount } from "svelte";
 
-    let server_url = "https://fokabulary-bot.vercel.app";
+    let server_url = "https://fokabulary-quiz-api.vercel.app";
 
     onMount(async () => {
         let quiz = await fetch(server_url + "/quizes");
